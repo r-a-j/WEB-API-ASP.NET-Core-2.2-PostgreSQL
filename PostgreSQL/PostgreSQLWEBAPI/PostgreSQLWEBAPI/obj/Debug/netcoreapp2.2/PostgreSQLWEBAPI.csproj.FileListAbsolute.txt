@@ -1,0 +1,13 @@
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\bin\Debug\netcoreapp2.2\PostgreSQLWEBAPI.deps.json
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\bin\Debug\netcoreapp2.2\PostgreSQLWEBAPI.runtimeconfig.json
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\bin\Debug\netcoreapp2.2\PostgreSQLWEBAPI.runtimeconfig.dev.json
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\bin\Debug\netcoreapp2.2\PostgreSQLWEBAPI.dll
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\obj\Debug\netcoreapp2.2\PostgreSQLWEBAPI.csproj.CoreCompileInputs.cache
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\obj\Debug\netcoreapp2.2\PostgreSQLWEBAPI.RazorAssemblyInfo.cache
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\obj\Debug\netcoreapp2.2\PostgreSQLWEBAPI.RazorAssemblyInfo.cs
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\obj\Debug\netcoreapp2.2\PostgreSQLWEBAPI.AssemblyInfoInputs.cache
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\obj\Debug\netcoreapp2.2\PostgreSQLWEBAPI.AssemblyInfo.cs
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\obj\Debug\netcoreapp2.2\PostgreSQLWEBAPI.RazorTargetAssemblyInfo.cache
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\bin\Debug\netcoreapp2.2\PostgreSQLWEBAPI.pdb
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\obj\Debug\netcoreapp2.2\PostgreSQLWEBAPI.dll
+D:\Work\Xcellence-It\Practice Solutions\PostgreSQL\PostgreSQLWEBAPI\PostgreSQLWEBAPI\obj\Debug\netcoreapp2.2\PostgreSQLWEBAPI.pdb
